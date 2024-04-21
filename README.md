@@ -4,23 +4,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Banner Page
 
-![1.1](../assets/rdme/1banner.png)
+![1.1](src/assets/rdme/1banner.png)
 
 ## Skills Page
 
-![1.2](../assets/rdme/2skills.png)
+![1.2](src/assets/rdme/2skills.png)
 
 ## Projects Page
 
-![1.3](../assets/rdme/3projects.png)
+![1.3](src/assets/rdme/3projects.png)
 
 ## Connect Page
 
-![1.4](../assets/rdme/4connect.png)
+![1.4](src/assets/rdme/4connect.png)
 
 ## Footer Page
 
-![1.5](../assets/rdme/5footer.png)
+![1.5](src/assets/rdme/5footer.png)
 
 <!-- <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png"> -->
 
