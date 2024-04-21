@@ -30,7 +30,7 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+In the /website-practice, you can run:
 
 ### `npm start`
 
